@@ -1,5 +1,5 @@
 # sqlite 
- - o banco sqlite ja esta com dados nele utilize o db browser for sqlite ou qlquer outra ferramenta visual de código aberto de alta qualidade para criar, projetar e editar arquivos de banco de dados compatíveis com o SQLite.
+ - o banco sqlite ja esta com dados nele utilize o [http://sqlitebrowser.org/] ou qlquer outra ferramenta visual de código aberto de alta qualidade para criar, projetar e editar arquivos de banco de dados compatíveis com o SQLite.
 
 # server
 ### ambiente de desenvolvimento
