@@ -1,3 +1,6 @@
+# sqlite 
+ - o banco sqlite ja esta com dados nele utilize o db browser for sqlite ou qlquer outra ferramenta visual de código aberto de alta qualidade para criar, projetar e editar arquivos de banco de dados compatíveis com o SQLite.
+
 # server
 ### ambiente de desenvolvimento
  - crie um arquivo .env em /.env e insira as seguintes variaveis.
